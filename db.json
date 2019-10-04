@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "great stream",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "other great stream",
+      "id": 2
+    },
+    {
+      "title": "Programatic nav",
+      "description": "lorem ipsum edit",
+      "id": 4
+    },
+    {
+      "title": "last stream  edit",
+      "description": "lorem ipsum edited",
+      "id": 6
+    },
+    {
+      "title": "new stream",
+      "description": "lorem ipsum edited",
+      "userId": "105911870842181240156",
+      "id": 7
+    }
+  ]
+}
